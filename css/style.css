@@ -1,18 +1,29 @@
 .Header{
-  background-color: rgb(253, 245, 211);
-  font-family:Trebuchet 
-  padding;
+  background-color:rgb(232, 240, 249);
+  font-family:Trebuchet;
+  padding:0;
+  margin:0;
+}
+.body{
+  background-image:url('shop.png');
+  font-family:Trebuchet;
+  padding: 10px;;
+  margin:0;
+} 
+.Product{
+ background-color: rgb(232, 240, 249);
+  font-family:Trebuchet;
+  padding: auto;
+  margin: 10px;
+}
+.fabric{
+  background-color: rgb(232, 240, 249);
+  font-family:Trebuchet;
+  padding: auto;
+  margin: 10px;
 }
 
-.body {
-  <style>
-  background-image: url('img_girl.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-</style>
-    font-family:Trebuchet 
-    padding;
-  }
+
+  
+  
 
